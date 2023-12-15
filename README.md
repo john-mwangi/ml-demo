@@ -7,7 +7,7 @@ For this demo, we will use the Iris dataset.
 This data sets consists of 3 different types of irises’ (Setosa, Versicolour, and Virginica) based on certain characteristics. The rows being the samples and the columns being: Sepal Length, Sepal Width, Petal Length and Petal Width.
 
 ## Running the API
-Have a .env file with you ngrok token: NGROK_TOKEN=XXX. 
+Have a .env file with you ngrok token: NGROK_TOKEN=XXX 
 
 Execute the `build_container.sh` script to build and run the container:
 ```
